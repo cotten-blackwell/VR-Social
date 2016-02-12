@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_UVRP_VRChat.CSharp.Plugins", "_UVRP_VRChat.CSharp.Plugins.csproj", "{78C207EC-2FD1-7E15-9AE9-A9ACA0F384A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_UVRP_VRChat.CSharp", "_UVRP_VRChat.CSharp.csproj", "{6B50936A-E580-D9AD-1526-EDDE18F35CF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_UVRP_VRChat.CSharp.Editor", "_UVRP_VRChat.CSharp.Editor.csproj", "{D955A0BC-918B-CE6F-1C09-03B96F3C5483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78C207EC-2FD1-7E15-9AE9-A9ACA0F384A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C207EC-2FD1-7E15-9AE9-A9ACA0F384A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C207EC-2FD1-7E15-9AE9-A9ACA0F384A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C207EC-2FD1-7E15-9AE9-A9ACA0F384A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B50936A-E580-D9AD-1526-EDDE18F35CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B50936A-E580-D9AD-1526-EDDE18F35CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B50936A-E580-D9AD-1526-EDDE18F35CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B50936A-E580-D9AD-1526-EDDE18F35CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D955A0BC-918B-CE6F-1C09-03B96F3C5483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D955A0BC-918B-CE6F-1C09-03B96F3C5483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D955A0BC-918B-CE6F-1C09-03B96F3C5483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D955A0BC-918B-CE6F-1C09-03B96F3C5483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
